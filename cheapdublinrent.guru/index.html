@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+
+    <title>Cheap Dublin Rent Guru</title>
+
+    <!-- Bootstrap core CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+        <div class="container">
+          <div class="jumbotron">
+            <h1 class="text-center" style="color:#000066">Cheap Dublin Rent Guru</h1>
+            <p>The purpose of this project is to use serverless infrastructure on Amazon Web Services(AWS) to actively curate Dublin City's cheapest rental properties. For an overview of this site's architecture and current status, <a href="about.html">click here</a></p>
+          </div>
+        </div>
+
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+
+    <!-- jQuery library -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+    <!-- Latest compiled JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+    <!-- jQuery script for loading property listings from json source -->
+    <script>
+      var jsonFile = "http://cheapdublinrent.guru/dublin1.json";
+      // var jsonFile = "http://0.0.0.0:8080/cheapdublinrent.guru/dublin1.json";
+
+      $.getJSON( jsonFile, function( data ) {
+        var items = [];
+        items.push("<div class='row'>");
+        $.each( data, function( key, val ) {
+          items.push( "<div class='col-xs-6 col-lg-4'><img src='" + val.imgSrc + "'class='img-rounded' alt='Cinque Terre' width='304' height='236'><a href='"+ val.url +"'>,<h4>" + val.name + "</h4></a><h4>€" + val.price + " "+ val.frequency +"</h4><p class='text-justify'>" + val.description +"</p></div>");
+        });
+
+        $( "<ul/>", {
+          "class": "my-new-list",
+          html: items.join( "" )
+        }).appendTo( "body" );
+      });
+    </script>
+  </body>
+</html>

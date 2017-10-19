@@ -1,0 +1,193 @@
+1497293552320	geckodriver	INFO	Listening on 127.0.0.1:57151
+1497293553546	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1497293563188	Marionette	INFO	Listening on port 34965
+1497293563314	Marionette	WARN	TLS certificate errors will be ignored for this session
+1497293783082	geckodriver	INFO	Listening on 127.0.0.1:37649
+1497293784214	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1497293788526	Marionette	INFO	Listening on port 38426
+1497293788676	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 19909] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-IKSm1A/firefox-53.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 346
+1497387107121	geckodriver	INFO	Listening on 127.0.0.1:34945
+1497387108199	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1497387120634	Marionette	INFO	Listening on port 37996
+1497387121475	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://c0.dmstatic.com/784/jscript/rentie/jcarousellite_1.0.1.min.js, line 2: TypeError: el[0] is undefined
+1497498585921	geckodriver	INFO	Listening on 127.0.0.1:44780
+1497498587207	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1497498599538	Marionette	INFO	Listening on port 38374
+1497498599863	Marionette	WARN	TLS certificate errors will be ignored for this session
+1497528054606	geckodriver	INFO	Listening on 127.0.0.1:56749
+1497528055716	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1497528065970	Marionette	INFO	Listening on port 44910
+1497528066310	Marionette	WARN	TLS certificate errors will be ignored for this session
+1497528080844	geckodriver	INFO	Listening on 127.0.0.1:39534
+1497528081963	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1497528086636	Marionette	INFO	Listening on port 43802
+1497528086778	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x80000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1497795267890	geckodriver	INFO	Listening on 127.0.0.1:34673
+1497795269142	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1497795280137	Marionette	INFO	Listening on port 39341
+1497795280647	Marionette	WARN	TLS certificate errors will be ignored for this session
+1497795497893	Marionette	INFO	Ceased listening
+1498045737766	geckodriver	INFO	Listening on 127.0.0.1:42335
+1498045738934	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1498045749492	Marionette	INFO	Listening on port 33045
+1498045750200	Marionette	WARN	TLS certificate errors will be ignored for this session
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1498050259923	Marionette	INFO	Ceased listening
+1498087865329	geckodriver	INFO	Listening on 127.0.0.1:44343
+1498087866512	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1498087880777	Marionette	INFO	Listening on port 41951
+1498087881187	Marionette	WARN	TLS certificate errors will be ignored for this session
+1498089664378	Marionette	INFO	Ceased listening
+1498126617667	geckodriver	INFO	Listening on 127.0.0.1:52551
+1498126618753	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1498126629005	Marionette	INFO	Listening on port 42977
+1498126629657	Marionette	WARN	TLS certificate errors will be ignored for this session
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1498130091861	Marionette	INFO	Ceased listening
+1498179837368	geckodriver	INFO	Listening on 127.0.0.1:51158
+1498179838580	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1498179849723	Marionette	INFO	Listening on port 35837
+1498179850349	Marionette	WARN	TLS certificate errors will be ignored for this session
+1498179899518	Marionette	INFO	Ceased listening
+1498500879055	geckodriver	INFO	Listening on 127.0.0.1:34140
+1498500880203	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1498500884764	Marionette	INFO	Listening on port 40653
+1498500885443	Marionette	WARN	TLS certificate errors will be ignored for this session
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+JavaScript error: https://pillreports.net/, line 1136: ReferenceError: urchinTracker is not defined
+JavaScript error: https://pillreports.net/assets/js/worldmap.js line 2405 > eval, line 1: TypeError: mapdiv is null
+JavaScript error: https://pillreports.net/index.php?page=region_home&region=2, line 2444: ReferenceError: urchinTracker is not defined
+JavaScript error: http://www.itv.com/news/assets/sitestat.js, line 5: ReferenceError: ns_08 is not defined
+JavaScript error: https://pillreports.net/index.php?page=region_home&region=2&sub_region=47, line 2389: ReferenceError: urchinTracker is not defined
+JavaScript error: https://pillreports.net/index.php?page=display_pill&id=37438, line 1231: ReferenceError: urchinTracker is not defined
+JavaScript error: http://www.mirror.co.uk/news/uk-news/first-picture-talented-boy-16-10534423, line 171: TypeError: ccLotame is undefined
+JavaScript error: https://pillreports.net/index.php?page=display_pill&id=37439, line 1155: ReferenceError: urchinTracker is not defined
+JavaScript error: https://pillreports.net/index.php?page=region_home&region=2&sub_region=47, line 2389: ReferenceError: urchinTracker is not defined
+JavaScript error: https://pillreports.net/index.php?page=display_pill&id=37136, line 1132: ReferenceError: urchinTracker is not defined
+JavaScript error: http://www.bbc.co.uk/newsbeat/article/40403970/this-is-what-happens-if-you-take-too-much-mdma, line 168: TypeError: googletag.display is not a function
+1498503100786	Marionette	INFO	Ceased listening
+1498539627531	geckodriver	INFO	Listening on 127.0.0.1:38555
+1498539628857	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1498539637333	Marionette	INFO	Listening on port 41289
+1498539638318	Marionette	WARN	TLS certificate errors will be ignored for this session
+1498539667670	Marionette	INFO	Ceased listening
+1498575276501	geckodriver	INFO	Listening on 127.0.0.1:59750
+1498575277596	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1498575288614	Marionette	INFO	Listening on port 34979
+1498575289164	Marionette	WARN	TLS certificate errors will be ignored for this session
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1498582016727	Marionette	INFO	Ceased listening
+1499176298721	geckodriver	INFO	Listening on 127.0.0.1:60964
+1499176299957	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1499176311092	Marionette	INFO	Listening on port 43085
+1499176311738	Marionette	WARN	TLS certificate errors will be ignored for this session
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1499177156976	Marionette	INFO	Ceased listening
+1499779811398	geckodriver	INFO	Listening on 127.0.0.1:36644
+1499779812579	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1499779822417	Marionette	INFO	Listening on port 36126
+1499779822834	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499779872363	Marionette	INFO	Ceased listening
+1507750729946	geckodriver	INFO	Listening on 127.0.0.1:48193
+1507750731023	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1507750732429	Marionette	INFO	Enabled via --marionette
+1507750737278	Marionette	INFO	Listening on port 34877
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1507750737488	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507750737558	Marionette	DEBUG	loaded listener.js
+1507750737633	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507750738065	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507750738066	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507750738810	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.rent.ie/rooms-to-rent/renting_dublin/dublin-city-centre/room-type_either/sort-by_price_up/"
+1507750738856	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.rent.ie/rooms-to-rent/renting_dublin/dublin-city-centre/room-type_either/sort-by_price_up/"
+1507750738860	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.rent.ie/rooms-to-rent/renting_dublin/dublin-city-centre/room-type_either/sort-by_price_up/"
+1507750739259	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://googleads.g.doubleclick.net/pagead/html/r20171010/r20170110/zrt_lookup.html#"
+1507750739262	Marionette	DEBUG	Received DOM event "pageshow" for "https://googleads.g.doubleclick.net/pagead/html/r20171010/r20170110/zrt_lookup.html#"
+1507750739687	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.rent.ie/rooms-to-rent/renting_dublin/dublin-city-centre/room-type_either/sort-by_price_up/"
+1507750739708	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.rent.ie/rooms-to-rent/renting_dublin/dublin-city-centre/room-type_either/sort-by_price_up/"
+1507750739712	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.rent.ie/rooms-to-rent/renting_dublin/dublin-city-centre/room-type_either/sort-by_price_up/"
+1507750739714	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.rent.ie/rooms-to-rent/renting_dublin/dublin-city-centre/room-type_either/sort-by_price_up/"
+1507750739715	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.rent.ie/rooms-to-rent/renting_dublin/dublin-city-centre/room-type_either/sort-by_price_up/"
+1507750739717	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.rent.ie/rooms-to-rent/renting_dublin/dublin-city-centre/room-type_either/sort-by_price_up/"
+1507750739770	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.rent.ie/rooms-to-rent/renting_dublin/dublin-city-centre/room-type_either/sort-by_price_up/"
+1507750739773	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.rent.ie/rooms-to-rent/renting_dublin/dublin-city-centre/room-type_either/sort-by_price_up/"
+1507750739826	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.rent.ie/rooms-to-rent/renting_dublin/dublin-city-centre/room-type_either/sort-by_price_up/"
+1507750739828	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.rent.ie/rooms-to-rent/renting_dublin/dublin-city-centre/room-type_either/sort-by_price_up/"
+1507750739894	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.rent.ie/rooms-to-rent/renting_dublin/dublin-city-centre/room-type_either/sort-by_price_up/"
+1507750740211	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-2507460802321363&output=html&h=136&slotname=2851710513&adk=2183857935&adf=2942753174&w=690&lmt=1507750739&loeid=38893314&format=690x136&url=http%3A%2F%2Fwww.rent.ie%2Frooms-to-rent%2Frenting_dublin%2Fdublin-city-centre%2Froom-type_either%2Fsort-by_price_up%2F&flash=0&wgl=1&dt=1507750739692&bpp=9&bdt=1629&fdt=17&idt=142&shv=r20171010&cbv=r20170110&saldr=aa&correlator=6250116019242&frm=20&ga_vid=483464181.1507750739&ga_sid=1507750739&ga_hid=1642233513&ga_fc=0&pv=1&icsg=2&nhd=1&dssz=2&mdo=0&mso=0&u_tz=-240&u_his=1&u_java=0&u_h=768&u_w=1366&u_ah=744&u_aw=1301&u_cd=24&u_nplug=0&u_nmime=0&adx=198&ady=6304&biw=1291&bih=671&abxe=1&eid=21061122%2C38893304%2C33895411%2C20040062&oid=3&nmo=1&rx=0&eae=0&fc=528&brdim=%2C%2C65%2C24%2C1301%2C24%2C1301%2C744%2C1301%2C671&vis=1&rsz=%7C%7CeEbr%7C&abl=CS&ppjl=u&pfx=0&fu=16&bc=1&ifi=2&xpc=kTbKUVfmbm&p=http%3A//www.rent.ie&dtd=182"
+1507750740215	Marionette	DEBUG	Received DOM event "pageshow" for "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-2507460802321363&output=html&h=136&slotname=2851710513&adk=2183857935&adf=2942753174&w=690&lmt=1507750739&loeid=38893314&format=690x136&url=http%3A%2F%2Fwww.rent.ie%2Frooms-to-rent%2Frenting_dublin%2Fdublin-city-centre%2Froom-type_either%2Fsort-by_price_up%2F&flash=0&wgl=1&dt=1507750739692&bpp=9&bdt=1629&fdt=17&idt=142&shv=r20171010&cbv=r20170110&saldr=aa&correlator=6250116019242&frm=20&ga_vid=483464181.1507750739&ga_sid=1507750739&ga_hid=1642233513&ga_fc=0&pv=1&icsg=2&nhd=1&dssz=2&mdo=0&mso=0&u_tz=-240&u_his=1&u_java=0&u_h=768&u_w=1366&u_ah=744&u_aw=1301&u_cd=24&u_nplug=0&u_nmime=0&adx=198&ady=6304&biw=1291&bih=671&abxe=1&eid=21061122%2C38893304%2C33895411%2C20040062&oid=3&nmo=1&rx=0&eae=0&fc=528&brdim=%2C%2C65%2C24%2C1301%2C24%2C1301%2C744%2C1301%2C671&vis=1&rsz=%7C%7CeEbr%7C&abl=CS&ppjl=u&pfx=0&fu=16&bc=1&ifi=2&xpc=kTbKUVfmbm&p=http%3A//www.rent.ie&dtd=182"
+1507750740248	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-2507460802321363&output=html&h=136&slotname=2851710513&adk=2183857935&adf=2942753174&w=690&lmt=1507750739&loeid=38893314&format=690x136&url=http%3A%2F%2Fwww.rent.ie%2Frooms-to-rent%2Frenting_dublin%2Fdublin-city-centre%2Froom-type_either%2Fsort-by_price_up%2F&flash=0&wgl=1&dt=1507750739692&bpp=9&bdt=1629&fdt=17&idt=142&shv=r20171010&cbv=r20170110&saldr=aa&correlator=6250116019242&frm=20&ga_vid=483464181.1507750739&ga_sid=1507750739&ga_hid=1642233513&ga_fc=0&pv=1&icsg=2&nhd=1&dssz=2&mdo=0&mso=0&u_tz=-240&u_his=1&u_java=0&u_h=768&u_w=1366&u_ah=744&u_aw=1301&u_cd=24&u_nplug=0&u_nmime=0&adx=198&ady=6304&biw=1291&bih=671&abxe=1&eid=21061122%2C38893304%2C33895411%2C20040062&oid=3&nmo=1&rx=0&eae=0&fc=528&brdim=%2C%2C65%2C24%2C1301%2C24%2C1301%2C744%2C1301%2C671&vis=1&rsz=%7C%7CeEbr%7C&abl=CS&ppjl=u&pfx=0&fu=16&bc=1&ifi=2&xpc=kTbKUVfmbm&p=http%3A//www.rent.ie&dtd=182"
+1507750740679	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-2507460802321363&output=html&h=136&slotname=2851710513&adk=2183857935&adf=2942753174&w=690&lmt=1507750739&loeid=38893314&format=690x136&url=http%3A%2F%2Fwww.rent.ie%2Frooms-to-rent%2Frenting_dublin%2Fdublin-city-centre%2Froom-type_either%2Fsort-by_price_up%2F&flash=0&wgl=1&dt=1507750739692&bpp=9&bdt=1629&fdt=17&idt=142&shv=r20171010&cbv=r20170110&saldr=aa&correlator=6250116019242&frm=20&ga_vid=483464181.1507750739&ga_sid=1507750739&ga_hid=1642233513&ga_fc=0&pv=1&icsg=2&nhd=1&dssz=2&mdo=0&mso=0&u_tz=-240&u_his=1&u_java=0&u_h=768&u_w=1366&u_ah=744&u_aw=1301&u_cd=24&u_nplug=0&u_nmime=0&adx=198&ady=6304&biw=1291&bih=671&abxe=1&eid=21061122%2C38893304%2C33895411%2C20040062&oid=3&nmo=1&rx=0&eae=0&fc=528&brdim=%2C%2C65%2C24%2C1301%2C24%2C1301%2C744%2C1301%2C671&vis=1&rsz=%7C%7CeEbr%7C&abl=CS&ppjl=u&pfx=0&fu=16&bc=1&ifi=2&xpc=kTbKUVfmbm&p=http%3A//www.rent.ie&dtd=182"
+1507750740695	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://googleads.g.doubleclick.net/pagead/drt/s?v=r20120211"
+1507750740698	Marionette	DEBUG	Received DOM event "pageshow" for "https://googleads.g.doubleclick.net/pagead/drt/s?v=r20120211"
+1507750740700	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://pagead2.googlesyndication.com/pagead/s/cookie_push.html#aHR0cHM6Ly9waXhlbC5ldmVyZXN0dGVjaC5uZXQvMS9tP3VybD1odHRwcyUzQSUyRiUyRmNtLmcuZG91YmxlY2xpY2submV0JTJGcGl4ZWwlM0Znb29nbGVfbmlkJTNEZXZlcmVzdCUyNmdvb2dsZV9obSUzRF9fRUZHU1VSRkVSX1VTQjY0X18lMjZnb29nbGVfcHVzaCUzREFITkYxM0wyMjVUWXNOZ1NPZTJTZXZsVEZrNEhxVFI1YTR0T3NTU2tPYTJ3Jmdvb2dsZV9naWQ9Q0FFU0VQelpTM0FsZE1QQl9IQ1VPX3J5VWlVJmdvb2dsZV9jdmVyPTE=,aHR0cHM6Ly9jbS5nLmRvdWJsZWNsaWNrLm5ldC9waXhlbC9hdHRyP2Q9QUhORjEzSVBUUC0xVWMzS3EyODBTY3Ita3ZLV0JTbkdldkI2"
+1507750740821	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://googleads.g.doubleclick.net/pagead/drt/si"
+1507750740830	Marionette	DEBUG	Received DOM event "pageshow" for "https://googleads.g.doubleclick.net/pagead/drt/si"
+1507750741254	Marionette	DEBUG	Received DOM event "pageshow" for "https://pagead2.googlesyndication.com/pagead/s/cookie_push.html#aHR0cHM6Ly9waXhlbC5ldmVyZXN0dGVjaC5uZXQvMS9tP3VybD1odHRwcyUzQSUyRiUyRmNtLmcuZG91YmxlY2xpY2submV0JTJGcGl4ZWwlM0Znb29nbGVfbmlkJTNEZXZlcmVzdCUyNmdvb2dsZV9obSUzRF9fRUZHU1VSRkVSX1VTQjY0X18lMjZnb29nbGVfcHVzaCUzREFITkYxM0wyMjVUWXNOZ1NPZTJTZXZsVEZrNEhxVFI1YTR0T3NTU2tPYTJ3Jmdvb2dsZV9naWQ9Q0FFU0VQelpTM0FsZE1QQl9IQ1VPX3J5VWlVJmdvb2dsZV9jdmVyPTE=,aHR0cHM6Ly9jbS5nLmRvdWJsZWNsaWNrLm5ldC9waXhlbC9hdHRyP2Q9QUhORjEzSVBUUC0xVWMzS3EyODBTY3Ita3ZLV0JTbkdldkI2"
+1507750741266	Marionette	DEBUG	Received DOM event "pageshow" for "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-2507460802321363&output=html&h=136&slotname=2851710513&adk=2183857935&adf=2942753174&w=690&lmt=1507750739&loeid=38893314&format=690x136&url=http%3A%2F%2Fwww.rent.ie%2Frooms-to-rent%2Frenting_dublin%2Fdublin-city-centre%2Froom-type_either%2Fsort-by_price_up%2F&flash=0&wgl=1&dt=1507750739692&bpp=9&bdt=1629&fdt=17&idt=142&shv=r20171010&cbv=r20170110&saldr=aa&correlator=6250116019242&frm=20&ga_vid=483464181.1507750739&ga_sid=1507750739&ga_hid=1642233513&ga_fc=0&pv=1&icsg=2&nhd=1&dssz=2&mdo=0&mso=0&u_tz=-240&u_his=1&u_java=0&u_h=768&u_w=1366&u_ah=744&u_aw=1301&u_cd=24&u_nplug=0&u_nmime=0&adx=198&ady=6304&biw=1291&bih=671&abxe=1&eid=21061122%2C38893304%2C33895411%2C20040062&oid=3&nmo=1&rx=0&eae=0&fc=528&brdim=%2C%2C65%2C24%2C1301%2C24%2C1301%2C744%2C1301%2C671&vis=1&rsz=%7C%7CeEbr%7C&abl=CS&ppjl=u&pfx=0&fu=16&bc=1&ifi=2&xpc=kTbKUVfmbm&p=http%3A//www.rent.ie&dtd=182"
+1507750741272	Marionette	DEBUG	Received DOM event "pageshow" for "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-2507460802321363&output=html&h=136&slotname=2851710513&adk=2183857935&adf=2942753174&w=690&lmt=1507750739&loeid=38893314&format=690x136&url=http%3A%2F%2Fwww.rent.ie%2Frooms-to-rent%2Frenting_dublin%2Fdublin-city-centre%2Froom-type_either%2Fsort-by_price_up%2F&flash=0&wgl=1&dt=1507750739692&bpp=9&bdt=1629&fdt=17&idt=142&shv=r20171010&cbv=r20170110&saldr=aa&correlator=6250116019242&frm=20&ga_vid=483464181.1507750739&ga_sid=1507750739&ga_hid=1642233513&ga_fc=0&pv=1&icsg=2&nhd=1&dssz=2&mdo=0&mso=0&u_tz=-240&u_his=1&u_java=0&u_h=768&u_w=1366&u_ah=744&u_aw=1301&u_cd=24&u_nplug=0&u_nmime=0&adx=198&ady=6304&biw=1291&bih=671&abxe=1&eid=21061122%2C38893304%2C33895411%2C20040062&oid=3&nmo=1&rx=0&eae=0&fc=528&brdim=%2C%2C65%2C24%2C1301%2C24%2C1301%2C744%2C1301%2C671&vis=1&rsz=%7C%7CeEbr%7C&abl=CS&ppjl=u&pfx=0&fu=16&bc=1&ifi=2&xpc=kTbKUVfmbm&p=http%3A//www.rent.ie&dtd=182"
+1507750741278	Marionette	DEBUG	Received DOM event "pageshow" for "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-2507460802321363&output=html&h=136&slotname=2851710513&adk=2183857935&adf=2942753174&w=690&lmt=1507750739&loeid=38893314&format=690x136&url=http%3A%2F%2Fwww.rent.ie%2Frooms-to-rent%2Frenting_dublin%2Fdublin-city-centre%2Froom-type_either%2Fsort-by_price_up%2F&flash=0&wgl=1&dt=1507750739692&bpp=9&bdt=1629&fdt=17&idt=142&shv=r20171010&cbv=r20170110&saldr=aa&correlator=6250116019242&frm=20&ga_vid=483464181.1507750739&ga_sid=1507750739&ga_hid=1642233513&ga_fc=0&pv=1&icsg=2&nhd=1&dssz=2&mdo=0&mso=0&u_tz=-240&u_his=1&u_java=0&u_h=768&u_w=1366&u_ah=744&u_aw=1301&u_cd=24&u_nplug=0&u_nmime=0&adx=198&ady=6304&biw=1291&bih=671&abxe=1&eid=21061122%2C38893304%2C33895411%2C20040062&oid=3&nmo=1&rx=0&eae=0&fc=528&brdim=%2C%2C65%2C24%2C1301%2C24%2C1301%2C744%2C1301%2C671&vis=1&rsz=%7C%7CeEbr%7C&abl=CS&ppjl=u&pfx=0&fu=16&bc=1&ifi=2&xpc=kTbKUVfmbm&p=http%3A//www.rent.ie&dtd=182"
+1507750741280	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.rent.ie/rooms-to-rent/renting_dublin/dublin-city-centre/room-type_either/sort-by_price_up/"
+1507750741285	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-2507460802321363&output=html&h=136&slotname=2851710513&adk=2183857935&adf=2942753174&w=690&lmt=1507750739&loeid=38893314&format=690x136&url=http%3A%2F%2Fwww.rent.ie%2Frooms-to-rent%2Frenting_dublin%2Fdublin-city-centre%2Froom-type_either%2Fsort-by_price_up%2F&flash=0&wgl=1&dt=1507750739692&bpp=9&bdt=1629&fdt=17&idt=142&shv=r20171010&cbv=r20170110&saldr=aa&correlator=6250116019242&frm=20&ga_vid=483464181.1507750739&ga_sid=1507750739&ga_hid=1642233513&ga_fc=0&pv=1&icsg=2&nhd=1&dssz=2&mdo=0&mso=0&u_tz=-240&u_his=1&u_java=0&u_h=768&u_w=1366&u_ah=744&u_aw=1301&u_cd=24&u_nplug=0&u_nmime=0&adx=198&ady=6304&biw=1291&bih=671&abxe=1&eid=21061122%2C38893304%2C33895411%2C20040062&oid=3&nmo=1&rx=0&eae=0&fc=528&brdim=%2C%2C65%2C24%2C1301%2C24%2C1301%2C744%2C1301%2C671&vis=1&rsz=%7C%7CeEbr%7C&abl=CS&ppjl=u&pfx=0&fu=16&bc=1&ifi=2&xpc=kTbKUVfmbm&p=http%3A//www.rent.ie&dtd=182"
+1507750741287	Marionette	DEBUG	Received DOM event "pageshow" for "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-2507460802321363&output=html&h=136&slotname=2851710513&adk=2183857935&adf=2942753174&w=690&lmt=1507750739&loeid=38893314&format=690x136&url=http%3A%2F%2Fwww.rent.ie%2Frooms-to-rent%2Frenting_dublin%2Fdublin-city-centre%2Froom-type_either%2Fsort-by_price_up%2F&flash=0&wgl=1&dt=1507750739692&bpp=9&bdt=1629&fdt=17&idt=142&shv=r20171010&cbv=r20170110&saldr=aa&correlator=6250116019242&frm=20&ga_vid=483464181.1507750739&ga_sid=1507750739&ga_hid=1642233513&ga_fc=0&pv=1&icsg=2&nhd=1&dssz=2&mdo=0&mso=0&u_tz=-240&u_his=1&u_java=0&u_h=768&u_w=1366&u_ah=744&u_aw=1301&u_cd=24&u_nplug=0&u_nmime=0&adx=198&ady=6304&biw=1291&bih=671&abxe=1&eid=21061122%2C38893304%2C33895411%2C20040062&oid=3&nmo=1&rx=0&eae=0&fc=528&brdim=%2C%2C65%2C24%2C1301%2C24%2C1301%2C744%2C1301%2C671&vis=1&rsz=%7C%7CeEbr%7C&abl=CS&ppjl=u&pfx=0&fu=16&bc=1&ifi=2&xpc=kTbKUVfmbm&p=http%3A//www.rent.ie&dtd=182"
+1507750741394	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483681"
+1507750742104	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.rent.ie/rooms-to-rent/renting_dublin/dublin-city-centre/room-type_either/sort-by_price_up/"
+
+(firefox:24493): GLib-GObject-CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+(firefox:24493): GLib-GObject-CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
